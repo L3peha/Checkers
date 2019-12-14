@@ -1,0 +1,70 @@
+﻿  main.cpp
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(105,14): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(105,14): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(105,14): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(105,14): warning C4244:             T=unsigned int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(105,14): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(106,15): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(106,15): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(106,15): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(106,15): warning C4244:             T=unsigned int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(106,15): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(119,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(119,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(170,36): warning C4244: =: преобразование "float" в "_Ty1", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(170,36): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(170,36): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(170,36): warning C4244:             _Ty1=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(170,36): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(171,38): warning C4244: =: преобразование "float" в "_Ty2", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(171,38): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(171,38): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(171,38): warning C4244:             _Ty2=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(171,38): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,50): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,50): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,50): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,50): warning C4244:             _Ty2=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,50): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,31): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,31): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,31): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,31): warning C4244:             _Ty1=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(173,31): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(215,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(215,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(219,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(219,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(223,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(223,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(226,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(226,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(261,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(261,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(265,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(265,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(269,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(269,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(272,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(272,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,56): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,56): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,56): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,56): warning C4244:             _Ty2=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,56): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,37): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,37): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,37): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,37): warning C4244:             _Ty1=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(277,37): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,56): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,56): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,56): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,56): warning C4244:             _Ty2=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,56): warning C4244:         ]
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,37): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,37): warning C4244:         with
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,37): warning C4244:         [
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,37): warning C4244:             _Ty1=int
+C:\Users\merzl\source\repos\checkers\checkers\main.cpp(281,37): warning C4244:         ]
+  checkers.vcxproj -> C:\Users\merzl\source\repos\checkers\x64\Debug\checkers.exe
