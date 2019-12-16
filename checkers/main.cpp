@@ -1,7 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <vector>
-#include <windows.h>
 
 using namespace sf;
 using namespace std;
@@ -93,8 +92,6 @@ bool checkTwoStepOtherChess(vector<vector <int> > pos, int x, int y) {
 
 int main()
 {
-	HWND hWnd = GetForegroundWindow();
-	ShowWindow(hWnd, SW_HIDE);
 
 	err().rdbuf(NULL);
 
@@ -110,13 +107,8 @@ int main()
 	if (height > 1080)
 		width = 1080;
 
-	if (width < 590 || height < 590) {
-		MessageBox(0, "Wrong resolution", "Error", MB_OK);
-		return 0;
-	}
 
-
-	RenderWindow window(VideoMode(width, height), "SAAASKIBLEEEET", Style::Fullscreen);
+	RenderWindow window(VideoMode(width, height), "Checkers", Style::Fullscreen);
 
 	Texture BackG;
 	BackG.loadFromFile("images/background.png");
